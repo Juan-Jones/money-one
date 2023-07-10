@@ -31,7 +31,7 @@ export const MAYUR: IAuthor = {
     social: [
         {
             icon: <AiFillGithub />,
-            link: 'https://github.com/nmayur'
+            link: 'https://github/Juan-Jones.com/'
         },
         {
             icon: <AiFillLinkedin />,
@@ -52,15 +52,15 @@ export const RUPALI: IAuthor = {
         },
         {
             icon: <AiFillLinkedin />,
-            link: 'https://www.linkedin.com/in/rupali-yadav-087bb4112/'
+            link: 'https://www.linkedin.com/company/earn-money-online-free/'
         },
     ]
 }
 
 
 // This can your company name / your name etc for SEO purposes
-export const WEBSITE_NAME: string = 'Next Js Blog Template';
-export const WEBSITE_URL: string = 'https://nextjs-simple-blog-template.web.app/';
+export const WEBSITE_NAME: string = 'Earn Money Online';
+export const WEBSITE_URL: string = 'https://earnonlinemoney.org/';
 
 /**
  * This is the main navigation setup.
@@ -144,15 +144,15 @@ export const PRIMARY_NAV: iNavSetup = {
     ],
     socials: [
         {
-            link: 'https://www.facebook.com/',
+            link: 'https://www.facebook.com/earnmoneynowonline/',
             icon: <AiFillFacebook />
         },
         {
-            link: 'https://www.instagram.com/',
-            icon: <AiFillInstagram />
+            link: 'https://www.pinterest.com/makeonlinemoneyfree/',
+            icon: <AiFillPinterest />
         },
         {
-            link: 'https://twitter.com/WebExpe',
+            link: 'https://twitter.com/moneyonline_fre',
             icon: <AiOutlineTwitter />
         },
     ]
@@ -161,7 +161,7 @@ export const PRIMARY_NAV: iNavSetup = {
 export const DEFAULT_SEO: iSEO = {
     title: "Nextjs simple blog template",
     description: "A simple blog template using NextJS and Typescript.",
-    keywords: "Blog, next js, template, next js blog, blog setup, typescript, nextjs typescript, react js blog template, responsive blog template",
+    keywords: "earn money online, make money online, side hustles, work from home jobs, freelancing typescript, nextjs typescript, react js blog template, responsive blog template",
     url: WEBSITE_URL,
     author: `${MAYUR.name}, ${RUPALI.name}`,
     twitterHandle: '@WebExpe',
